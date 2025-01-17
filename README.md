@@ -9,21 +9,21 @@ Furniture Marketplace – A platform offering high-quality, modern, and affordab
 To create an E-commerce Marketplace where customers can easily explore, customize, and purchase furniture. The platform will tackle challenges like affordability, quality, and reliable delivery services.
 
  ## Target Audience:
-Homeowners
-Interior designers
-Budget-conscious buyers seeking stylish furniture
+ - Homeowners
+ - Interior designers
+ - Budget-conscious buyers seeking stylish furniture
 
  ## Core Features:
-- Customizable furniture options
--Affordable pricing and discounts
-Efficient delivery services with real-time tracking
-Easy-to-use interface and navigation
+ - Customizable furniture options
+ - Affordable pricing and discounts
+ - Efficient delivery services with real-time tracking
+ - Easy-to-use interface and navigation
 
  ## 📅 Hackathon Progress Overview
 This section provides a brief overview of the development process for each day of the hackathon.
 
 ## Day 1: Foundation and Planning
-Defined the project scope and niche (Furniture Marketplace).
-Identified key business objectives, target audience, and unique differentiators.
-Designed the data structure for core entities: Products, Orders, Customers, and Delivery Zones.
-Detailed Day 1 Progress.
+ - Defined the project scope and niche (Furniture Marketplace).
+ - Identified key business objectives, target audience, and unique differentiators.
+ - Designed the data structure for core entities: Products, Orders, Customers, and Delivery Zones.
+ - Detailed Day 1 Page Progress here.
