@@ -27,4 +27,11 @@ This section provides a brief overview of the development process for each day o
  - Identified key business objectives, target audience, and unique differentiators.
  - Designed the data structure for core entities: Products, Orders, Customers, and Delivery Zones.
  - [Detailed Day 1 Page Progress here.](./Day1/Readme.md)
+
+## Day 2: Planning the Technical Foundation
+- Designed a scalable system architecture to support growth.
+- Outlined API routes for products, orders, and payments.
+- Planned secure third-party API integrations for transactions.
+- Mapped data flow between frontend, backend, and external services.
+- [Detailed Day 2 Page Progress here.](./Day2/Readme.md)
    
