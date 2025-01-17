@@ -1,99 +1,99 @@
-Marketplace Builder Hackathon - Day 1
+#Marketplace Builder Hackathon - Day 1
 
-🚀 Marketplace Overview
+##🚀 Marketplace Overview
 
 A general e-commerce website focused on furniture, offering customizable designs, fast delivery, and affordable options.
 
-🎯 Business Goals
+🎯## Business Goals
 
 Problem: Finding quality, affordable furniture easily.
 
 Solution: A convenient online store with customizable, budget-friendly options.
 
-👥 Target Audience
+👥## Target Audience
 
 Homeowners, renters, and businesses seeking quality furniture online.
 
-🛋️ Products & Services We Offer
+🛋️## Products & Services We Offer
 
-Products:
+###Products:
 
 A wide range of home and office furniture, including chairs, tables, sofas, beds, and other accessories.
 
-Services:
+###Services:
 
 Custom furniture design, reliable delivery, and professional assembly.
 
-💡 Unique Selling Points
+💡## Unique Selling Points
 
-Speed: Fast delivery and processing.
+###Speed: Fast delivery and processing.
 
-Customization: Personalized future designs.
+###Customization: Personalized future designs.
 
-Affordability: Quality at affordable prices.
+###Affordability: Quality at affordable prices.
 
-🔑 Key Fields for Each Entity
+🔑## Key Fields for Each Entity
 
-Products
+##Products
 
-ProductID: A unique identifier for each product.
+###ProductID: A unique identifier for each product.
 
-Name: The name of the product (e.g., Wooden Chair, Office Desk).
+###Name: The name of the product (e.g., Wooden Chair, Office Desk).
 
-Category: The type of product (e.g., Home Furniture, Office Furniture).
+###Category: The type of product (e.g., Home Furniture, Office Furniture).
 
-Price: The cost of the product.
+###Price: The cost of the product.
 
-Description: A brief description of the product and its features.
+###Description: A brief description of the product and its features.
 
-Stock: The quantity of the product available for sale.
+###Stock: The quantity of the product available for sale.
 
-Orders
+##Orders
 
-OrderID: A unique identifier for each order.
+###OrderID: A unique identifier for each order.
 
-UserID: The ID of the customer who placed the order.
+###UserID: The ID of the customer who placed the order.
 
-ProductID: A reference to the product(s) included in the order.
+###ProductID: A reference to the product(s) included in the order.
 
-Quantity: The number of items in the order.
+###Quantity: The number of items in the order.
 
-TotalPrice: The total cost of the order.
+###TotalPrice: The total cost of the order.
 
-OrderDate: The date and time when the order was placed.
+###OrderDate: The date and time when the order was placed.
 
-Customers
+##Customers
 
-UserID: A unique identifier for each customer.
+###UserID: A unique identifier for each customer.
 
-Name: The full name of the customer.
+###Name: The full name of the customer.
 
-Email: The email address of the customer for communication.
+###Email: The email address of the customer for communication.
 
-Address: The delivery address of the customer.
+###Address: The delivery address of the customer.
 
-PhoneNumber: A contact number for the customer.
+###PhoneNumber: A contact number for the customer.
 
-Payments
+##Payments
 
-PaymentID: A unique identifier for each payment transaction.
+###PaymentID: A unique identifier for each payment transaction.
 
-OrderID: A reference to the order associated with the payment.
+###OrderID: A reference to the order associated with the payment.
 
-PaymentMethod: The method used for payment (e.g., Credit Card, PayPal).
+###PaymentMethod: The method used for payment (e.g., Credit Card, PayPal).
 
-PaymentStatus: The status of the payment (e.g., Paid, Pending).
+###PaymentStatus: The status of the payment (e.g., Paid, Pending).
 
-PaymentDate: The date and time the payment was made.
+###PaymentDate: The date and time the payment was made.
 
-Shipment / Delivery Zones
+##Shipment / Delivery Zones
 
-ZoneID: A unique identifier for each delivery zone.
+###ZoneID: A unique identifier for each delivery zone.
 
-ZoneName: The name of the delivery area (e.g., Downtown, Suburbs).
+###ZoneName: The name of the delivery area (e.g., Downtown, Suburbs).
 
-DeliveryCharges: The delivery fee for orders within the zone.
+###DeliveryCharges: The delivery fee for orders within the zone.
 
-EstimatedDeliveryTime: The expected time frame for delivery in the zone.
+###EstimatedDeliveryTime: The expected time frame for delivery in the zone.
 
-SupportedOrders: The number of orders handled in the zone.
+###SupportedOrders: The number of orders handled in the zone.
