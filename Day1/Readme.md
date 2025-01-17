@@ -1,4 +1,4 @@
-# Marketplace Builder Hackathon - Day 1
+# 🛠️ Marketplace Builder Hackathon - Day 1
 
 ## 🚀 Marketplace Overview
 _A general e-commerce website focused on furniture, offering customizable designs, fast delivery, and affordable options._
@@ -11,20 +11,20 @@ _A general e-commerce website focused on furniture, offering customizable design
 _Homeowners, renters, and businesses seeking quality furniture online._
 
 ## 🛋️ Products & Services We Offer
-### Products:
+### 🛒 Products:
 - A wide range of home and office furniture, including chairs, tables, sofas, beds, and other accessories.
   
-### Services:
+### 🛠️ Services:
 - Custom furniture design, reliable delivery, and professional assembly.
 
 ## 💡 Unique Selling Points
-- **Speed:** Fast delivery and processing.
-- **Customization:** Personalized future designs.
-- **Affordability:** Quality at affordable prices.
+- **⚡ Speed:** Fast delivery and processing.
+- **🎨 Customization:** Personalized future designs.
+- **💸 Affordability:** Quality at affordable prices.
 
 ## 🔑 Key Fields for Each Entity
 
-### Products
+### 📦 Products
 - **ProductID:** A unique identifier for each product.
 - **Name:** The name of the product (e.g., Wooden Chair, Office Desk).
 - **Category:** The type of product (e.g., Home Furniture, Office Furniture).
@@ -32,7 +32,7 @@ _Homeowners, renters, and businesses seeking quality furniture online._
 - **Description:** A brief description of the product and its features.
 - **Stock:** The quantity of the product available for sale.
 
-### Orders
+### 📝 Orders
 - **OrderID:** A unique identifier for each order.
 - **UserID:** The ID of the customer who placed the order.
 - **ProductID:** A reference to the product(s) included in the order.
@@ -40,25 +40,23 @@ _Homeowners, renters, and businesses seeking quality furniture online._
 - **TotalPrice:** The total cost of the order.
 - **OrderDate:** The date and time when the order was placed.
 
-### Customers
+### 👤 Customers
 - **UserID:** A unique identifier for each customer.
 - **Name:** The full name of the customer.
 - **Email:** The email address of the customer for communication.
 - **Address:** The delivery address of the customer.
 - **PhoneNumber:** A contact number for the customer.
 
-### Payments
+### 💳 Payments
 - **PaymentID:** A unique identifier for each payment transaction.
 - **OrderID:** A reference to the order associated with the payment.
 - **PaymentMethod:** The method used for payment (e.g., Credit Card, PayPal).
 - **PaymentStatus:** The status of the payment (e.g., Paid, Pending).
 - **PaymentDate:** The date and time the payment was made.
 
-### Shipment / Delivery Zones
+### 🌍 Shipment / Delivery Zones
 - **ZoneID:** A unique identifier for each delivery zone.
 - **ZoneName:** The name of the delivery area (e.g., Downtown, Suburbs).
 - **DeliveryCharges:** The delivery fee for orders within the zone.
 - **EstimatedDeliveryTime:** The expected time frame for delivery in the zone.
 - **SupportedOrders:** The number of orders handled in the zone.
-
----
