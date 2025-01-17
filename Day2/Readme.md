@@ -1,4 +1,4 @@
- # 🚀 Day 2 - System Design & API Strategy: Marketplace Builder Hackathon 2025
+# 🛠️ Marketplace Builder Hackathon - Day 2
 Welcome to Day 2 of my incredible journey in the Marketplace Builder Hackathon 2025! 🎉 Today’s focus was on crafting a solid system design and outlining the integration of frontend, backend, and external services for a seamless user experience.
 
 ## 🛠️ Key Highlights of the System Design
