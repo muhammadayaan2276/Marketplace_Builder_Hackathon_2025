@@ -14,8 +14,8 @@ Interior designers
 Budget-conscious buyers seeking stylish furniture
 
  ## Core Features:
-Customizable furniture options
-Affordable pricing and discounts
+- Customizable furniture options
+-Affordable pricing and discounts
 Efficient delivery services with real-time tracking
 Easy-to-use interface and navigation
 
@@ -23,7 +23,6 @@ Easy-to-use interface and navigation
 This section provides a brief overview of the development process for each day of the hackathon.
 
 ## Day 1: Foundation and Planning
-
 Defined the project scope and niche (Furniture Marketplace).
 Identified key business objectives, target audience, and unique differentiators.
 Designed the data structure for core entities: Products, Orders, Customers, and Delivery Zones.
