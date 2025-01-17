@@ -26,5 +26,5 @@ This section provides a brief overview of the development process for each day o
  - Defined the project scope and niche (Furniture Marketplace).
  - Identified key business objectives, target audience, and unique differentiators.
  - Designed the data structure for core entities: Products, Orders, Customers, and Delivery Zones.
- - [Detailed Day 1 Page Progress here.](./day1/README.md)
+ - [Detailed Day 1 Page Progress here.](./Day1/README.md)
    
