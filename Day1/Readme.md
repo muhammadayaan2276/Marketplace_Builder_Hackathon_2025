@@ -61,9 +61,9 @@ _Homeowners, renters, and businesses seeking quality furniture online._
 - **EstimatedDeliveryTime:** The expected time frame for delivery in the zone.
 - **SupportedOrders:** The number of orders handled in the zone.
 
- # 🚀 Day 1 Summary
+ ## 🚀 Day 1 Summary
 This is just the beginning of my journey in building an efficient and user-friendly E-commerce Marketplace. I’m excited to continue learning, iterating, and growing through this hackathon experience!
 
- # 🏷️ Tags:
+ ## 🏷️ Tags:
 #NextJS #Ecommerce #FurnitureMarketplace #TechJourney #DataSchema #BusinessGoals #Hackathon #ProductDevelopment #EcommerceJourney #Marketplace #NextJSDesignJAM
 
