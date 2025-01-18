@@ -49,7 +49,14 @@ Frontend: Sends user actions and requests to the backend via API routes.
 Backend: Processes these requests, interacts with external APIs, and sends back responses.
 
 ## 📊 Visual Schema for Data Entities
+
 The schema for entities such as products, orders, and payments is meticulously crafted for scalability and performance. A detailed Data Schema Diagram is available to showcase the structure visually.
+
+Here’s the design you can see:
+
+- **Excalidraw Diagram**: [View Excalidraw Diagram](https://excalidraw.com/)
+
+- **Mermaid Diagram**: [View Mermaid Diagram](https://tinyurl.com/rrrrbpwd)
 
 ## 🚀 Day 2 Summary
 Day 2 has been a major milestone! I’ve successfully outlined the system architecture and integration strategies for frontend-backend communication and external APIs. With a strong foundation in place, I’m excited to begin building the marketplace!
