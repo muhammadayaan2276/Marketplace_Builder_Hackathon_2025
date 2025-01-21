@@ -42,5 +42,5 @@ This section provides a brief overview of the development process for each day o
 - Uploaded product images to Sanity and linked them in the CMS.
 - Created reusable backend functions (getAllProducts, getPopularProducts, getProductBySlug) for frontend integration.
 - Validated imported data in Sanity Studio and verified frontend displays
-- [Detailed Day 2 Page Progress here.](./Day3/Readme.md).
+- [Detailed Day 3 Page Progress here.](./Day3/Readme.md).
    
