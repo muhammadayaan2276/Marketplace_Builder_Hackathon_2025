@@ -75,15 +75,15 @@ The goal for Day 3 was to integrate an external API and migrate its data into Sa
    cd [project-directory]
 
 
-2️⃣ **Install the dependencies:**
-```bash
+2️. Install the dependencies:
+
 npm install 
 
-3️⃣ **Run the migration script:**
-```bash
+3️. Run the migration script:
+
 node scripts/data-migration.mjs
 
-4️⃣ Validation:
+4️. Validation:
 - Verify the imported data in Sanity Studio.
 - Check the frontend to ensure product listings and categories are displayed correctly.
 
