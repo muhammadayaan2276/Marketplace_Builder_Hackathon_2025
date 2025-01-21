@@ -34,4 +34,13 @@ This section provides a brief overview of the development process for each day o
 - Planned secure third-party API integrations for transactions.
 - Mapped data flow between frontend, backend, and external services.
 - [Detailed Day 2 Page Progress here.](./Day2/Readme.md)
+
+ ## Day 3: API Integration and Data Migration
+- Integrated an external API (https://hackathon-apis.vercel.app/api/products) to fetch product data.
+- Updated Sanity CMS schemas to include new fields like dimensions, tags, and categories.
+- Migrated API data into Sanity CMS using axios and createOrReplace, ensuring alignment with schema requirements.
+- Uploaded product images to Sanity and linked them in the CMS.
+- Created reusable backend functions (getAllProducts, getPopularProducts, getProductBySlug) for frontend integration.
+- Validated imported data in Sanity Studio and verified frontend displays
+- [Detailed Day 2 Page Progress here.](./Day3/Readme.md).
    
