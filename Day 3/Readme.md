@@ -69,14 +69,13 @@ The goal for Day 3 was to integrate an external API and migrate its data into Sa
 
 ## Steps:
 
-1. **Clone the repository and navigate to the project directory:**
-   ```bash
+1. ****Clone the repository and navigate to the project directory:****
+ ```bash
    git clone [repository-url]
    cd [project-directory]
 
 
 2️. Install the dependencies:
-
 npm install 
 
 3️. Run the migration script:
