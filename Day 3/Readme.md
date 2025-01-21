@@ -67,10 +67,13 @@ The goal for Day 3 was to integrate an external API and migrate its data into Sa
 - Configured Sanity project.
 - Accessible external API.
 
-## Steps
-1️⃣ Clone the repository and navigate to the directory:
-git clone [repository-url]  
-cd [project-directory]  
+## Steps:
+
+1. **Clone the repository and navigate to the project directory:**
+   ```bash
+   git clone [repository-url]
+   cd [project-directory]
+
 
 2️⃣ Install the dependencies:
 npm install 
