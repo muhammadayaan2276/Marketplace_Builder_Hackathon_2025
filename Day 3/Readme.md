@@ -75,7 +75,7 @@ The goal for Day 3 was to integrate an external API and migrate its data into Sa
    cd [project-directory]
 
 
-2️⃣ **Install the dependencies:**
+2️⃣ Install the dependencies:
 
 npm install 
 
