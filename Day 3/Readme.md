@@ -75,15 +75,17 @@ The goal for Day 3 was to integrate an external API and migrate its data into Sa
    cd [project-directory]
 
 
-2️⃣ Install the dependencies:
+2️⃣ **Install the dependencies:**
+``bash
 npm install 
 
-3️⃣ Run the migration script:
+3️⃣ **Run the migration script:**
+``bash
 node scripts/data-migration.mjs
 
 4️⃣ Validation:
-Verify the imported data in Sanity Studio.
-Check the frontend to ensure product listings and categories are displayed correctly.
+- Verify the imported data in Sanity Studio.
+- Check the frontend to ensure product listings and categories are displayed correctly.
 
 ## 📌 Day 3 Summary
 The successful API integration and data migration into Sanity CMS prepared the system to manage dynamic content efficiently. This process ensured scalability and flexibility for future development, laying a robust foundation for the marketplace backend.
