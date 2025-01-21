@@ -83,7 +83,7 @@ The goal for Day 3 was to integrate an external API and migrate its data into Sa
 - Check the frontend to ensure product listings and categories are displayed correctly.
 
   ## Source Code
-(https://github.com/muhammadayaan2276/Marketplace-E-commerce-Hackathon-Builder-2025-Functionality)
+[Marketplace E-commerce Hackathon Builder 2025 Functionality](https://github.com/muhammadayaan2276/Marketplace-E-commerce-Hackathon-Builder-2025-Functionality)
 
   
 ## 📌 Day 3 Summary
