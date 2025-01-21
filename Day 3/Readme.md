@@ -70,14 +70,14 @@ The goal for Day 3 was to integrate an external API and migrate its data into Sa
 ## Steps:
 
 1. Clone the repository and navigate to the project directory:
-   git clone [repository-url]
-   cd [project-directory]
+- git clone [repository-url]
+- cd [project-directory]
 
 2️. Install the dependencies:
-npm install 
+- npm install 
 
 3️. Run the migration script:
-node scripts/data-migration.mjs
+- node scripts/data-migration.mjs
 
 4️. Validation:
 - Verify the imported data in Sanity Studio.
